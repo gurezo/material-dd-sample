@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7
 
+fork from https://stackblitz.com/edit/angular-krmecd
+
+## sample upgarade 
+- cli: v7.0.2 => v11.2.7
+- core: v9.1.0 => v11.2.7
+- cdk & material: v9.2.1 => v11.2.6
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
